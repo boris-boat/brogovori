@@ -117,3 +117,6 @@ img {
   display: flex;
   justify-content: space-evenly;
 }
+button {
+  padding: 10px;
+}
