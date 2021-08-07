@@ -3,7 +3,7 @@
 }
 body {
   display: flex;
-  background-image:url("brogovori/img/broforce.jpg");
+  background-image:url("img/broforce.jpg");
   background-size: cover;
 }
 img {
