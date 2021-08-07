@@ -44,6 +44,9 @@ unesiBtn.addEventListener('click', function() {
         lista.innerHTML = sviOdgovori[i]
         localStorage.setItem(i+6,sviOdgovori[i])
         }}
+        datum.value = ''
+        vreme.value = ''
+        imeUneseno.value = ''
        
 })
 // unesi unesene datume
